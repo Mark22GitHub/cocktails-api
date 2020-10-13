@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  color: rosybrown;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 420px;
+}
+
+.cocktails-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.cocktail-item {
+  border: 3px solid rosybrown;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.instruction {
+  max-width: 380px;
+  max-height: 400px;
+}

@@ -1,1 +1,1 @@
-# cocktails-api
+# initial-repository
